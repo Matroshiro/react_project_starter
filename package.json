@@ -30,7 +30,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^3.2.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "open-browser-webpack-plugin": "0.0.5",
     "path": "^0.12.7",
     "sass-loader": "^8.0.0",
